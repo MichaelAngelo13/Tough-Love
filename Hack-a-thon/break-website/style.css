@@ -1,0 +1,21 @@
+/* #content:hover{
+    background-color: red;
+} */
+.ytp-content-player {
+    height: 10000px;
+}
+
+#content {
+    width: 3000px;
+    animation: flashes 200ms;
+    animation-iteration-count: infinite;
+}
+
+@keyframes flashes {
+    0% {
+        background-color: white;
+    }
+    50% {
+        background-color: black;
+    }
+}

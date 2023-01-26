@@ -1,0 +1,22 @@
+YOUTUBE
+NOISES?!
+Logo for our extension
+refactor code for readability
+
+for me(MichaelAngelo)
+  if I can I'll make every click download
+
+
+
+
+
+
+
+
+  // "content_scripts": [
+    //     {
+    //         "matches": ["<all_urls>"],
+    //         "js": ["script.js"],
+    //         "css": ["style.css"]
+    //     }
+    // ],
